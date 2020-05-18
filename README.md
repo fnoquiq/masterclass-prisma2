@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-    <img alt="prisma-logo" title="prisma-logo" src="http://www.w3.org/2000/svg" width="250px" />
+    <img alt="prisma-logo" title="prisma-logo" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="250px" />
 </h1>
 
 - Estudo do framework **Prisma 2**, que nesta (17/05/2020) data ainda está em desenvolvimento e pode ser acessado em: https://www.prisma.io/.
