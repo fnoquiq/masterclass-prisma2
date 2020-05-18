@@ -1,10 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   :rocket: Prisma 2 - Beta
-</h3>
-
-<h1 align="center">
-    <img alt="prisma-logo" title="prisma-logo" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="250px" />
-</h1>
+</h2>
 
 - Estudo do framework **Prisma 2**, que nesta (17/05/2020) data ainda está em desenvolvimento e pode ser acessado em: https://www.prisma.io/.
 
@@ -25,3 +21,9 @@
 :art: Prisma studio
 
 - Execute `npx prisma studio --experimental` para ter acesso a um 'database admin', ele pode ser acessado em `http://localhost:5555/`.
+
+---
+
+<h1 align="center">
+    <img alt="prisma-logo" title="prisma-logo" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="250px" />
+</h1>
